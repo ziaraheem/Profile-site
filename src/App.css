@@ -1,0 +1,25 @@
+.profile {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border-style: solid;
+  border-color: rgb(128, 127, 126);
+  border-width: 5px;
+  border-width: 50px;
+  background-image: url(https://lovelytab.com/wp-content/uploads/2019/01/Tumblr-Aesthetic-Wallpapers-Free.jpg);
+}
+.image {
+  width: 200px;
+  border-radius: 50%;
+}
+.text {
+  color: darkred;
+  font-size: 33px;
+  font-family: fantasy;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: white;
+}
+.social {
+  display: flex;
+  flex-direction: row;
+}
